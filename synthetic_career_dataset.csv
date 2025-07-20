@@ -1,0 +1,501 @@
+skills,education_level,years_experience,previous_job_title,current_job_title,expected_salary,location,employment_type
+"SQL, Excel, Python",Bachelors,1,Data Scientist,Data Analyst,6,Hyderabad,Full-time
+"Python, R, SQL, Pandas, Machine Learning",Bachelors,4,Data Analyst,Data Scientist,14,Hyderabad,Internship
+"Tableau, Python, Excel",Masters,9,Software Developer,Data Analyst,5,Bangalore,Contract
+"React, Python, Git, Java, C++",Bachelors,3,Software Developer,Software Developer,19,Delhi,Internship
+"Python, React, Java",Masters,10,Data Analyst,Software Developer,14,Hyderabad,Internship
+"ETL, Power BI, Excel, Tableau",Masters,0,ML Engineer,BI Analyst,9,Hyderabad,Contract
+"Git, React, Python",Bachelors,4,ML Engineer,Software Developer,17,Remote,Internship
+"C++, Git, Java",Masters,1,ML Engineer,Software Developer,18,Remote,Full-time
+"ETL, Tableau, Excel, Power BI",PhD,0,Data Analyst,BI Analyst,15,Bangalore,Internship
+"Tableau, SQL, Excel",Masters,4,Data Scientist,BI Analyst,15,Remote,Contract
+"Keras, TensorFlow, Docker",PhD,8,Data Analyst,ML Engineer,20,Delhi,Internship
+"TensorFlow, Python, Scikit-learn",Masters,1,Data Scientist,ML Engineer,14,Hyderabad,Internship
+"Pandas, R, SQL, Python, Machine Learning",Bachelors,10,Software Developer,Data Scientist,17,Bangalore,Internship
+"Power BI, Excel, SQL, Python, Tableau",Bachelors,10,Data Analyst,Data Analyst,8,Bangalore,Contract
+"Scikit-learn, TensorFlow, Keras, Python",Masters,9,Data Scientist,ML Engineer,17,Hyderabad,Full-time
+"Tableau, SQL, Excel, Power BI, Python",Masters,0,Data Analyst,Data Analyst,5,Hyderabad,Full-time
+"Scikit-learn, TensorFlow, Docker, Python, Keras",Bachelors,1,BI Analyst,ML Engineer,13,Bangalore,Full-time
+"Scikit-learn, Docker, TensorFlow",Bachelors,6,Data Analyst,ML Engineer,22,Mumbai,Internship
+"ETL, Tableau, SQL, Excel, Power BI",Bachelors,0,Data Scientist,BI Analyst,10,Bangalore,Contract
+"ETL, Power BI, SQL, Excel, Tableau",Bachelors,1,ML Engineer,BI Analyst,14,Remote,Contract
+"Python, Tableau, SQL, Excel, Power BI",Bachelors,5,ML Engineer,Data Analyst,9,Delhi,Internship
+"Java, Git, Python",PhD,1,Data Analyst,Software Developer,14,Delhi,Full-time
+"Keras, TensorFlow, Scikit-learn, Docker",Masters,10,Data Scientist,ML Engineer,19,Hyderabad,Internship
+"Power BI, Excel, Tableau",Bachelors,3,Software Developer,Data Analyst,8,Bangalore,Full-time
+"SQL, ETL, Power BI, Tableau",Masters,4,ML Engineer,BI Analyst,5,Bangalore,Contract
+"Python, Keras, Scikit-learn, Docker, TensorFlow",Bachelors,4,Software Developer,ML Engineer,21,Bangalore,Internship
+"Machine Learning, R, Python, SQL",PhD,2,BI Analyst,Data Scientist,23,Hyderabad,Internship
+"Python, Scikit-learn, Docker, TensorFlow, Keras",Bachelors,7,Software Developer,ML Engineer,17,Mumbai,Internship
+"Python, React, Git",Masters,10,Data Scientist,Software Developer,7,Remote,Internship
+"Power BI, Tableau, Excel",Masters,5,BI Analyst,Data Analyst,14,Delhi,Full-time
+"ETL, Power BI, Tableau",Bachelors,10,Software Developer,BI Analyst,18,Delhi,Contract
+"Git, Python, C++, React, Java",Bachelors,10,BI Analyst,Software Developer,15,Mumbai,Contract
+"SQL, Excel, Tableau, Power BI",Bachelors,7,ML Engineer,Data Analyst,13,Bangalore,Internship
+"Machine Learning, SQL, Python, Pandas, R",Bachelors,3,ML Engineer,Data Scientist,29,Bangalore,Internship
+"ETL, Power BI, Excel, Tableau, SQL",Bachelors,2,Data Analyst,BI Analyst,7,Mumbai,Full-time
+"Python, Pandas, Machine Learning",Masters,10,Data Scientist,Data Scientist,29,Remote,Internship
+"R, Pandas, Machine Learning, SQL",Masters,10,Software Developer,Data Scientist,18,Mumbai,Full-time
+"Python, React, C++",Masters,1,ML Engineer,Software Developer,12,Hyderabad,Full-time
+"Excel, Tableau, Power BI, SQL",Bachelors,6,BI Analyst,BI Analyst,17,Mumbai,Internship
+"SQL, Tableau, Excel, Python",Bachelors,4,BI Analyst,Data Analyst,12,Hyderabad,Internship
+"Docker, Python, TensorFlow, Scikit-learn, Keras",Masters,2,BI Analyst,ML Engineer,11,Hyderabad,Internship
+"Git, Python, C++, React",Masters,7,Data Analyst,Software Developer,11,Bangalore,Contract
+"Excel, Power BI, Python",Masters,3,ML Engineer,Data Analyst,12,Delhi,Internship
+"Docker, Python, Scikit-learn, TensorFlow, Keras",Masters,4,Data Scientist,ML Engineer,22,Bangalore,Contract
+"Keras, Python, Docker",Masters,5,Data Scientist,ML Engineer,21,Delhi,Full-time
+"SQL, Tableau, Power BI, Excel",Masters,6,ML Engineer,BI Analyst,17,Mumbai,Internship
+"ETL, Excel, Power BI, SQL, Tableau",Bachelors,7,ML Engineer,BI Analyst,5,Delhi,Full-time
+"Excel, ETL, Power BI",Bachelors,9,Software Developer,BI Analyst,8,Hyderabad,Contract
+"ETL, Power BI, Excel, Tableau",Masters,7,BI Analyst,BI Analyst,8,Hyderabad,Internship
+"Pandas, SQL, R, Machine Learning",Bachelors,7,Software Developer,Data Scientist,16,Delhi,Full-time
+"R, Machine Learning, Python, Pandas, SQL",Masters,8,Data Scientist,Data Scientist,19,Hyderabad,Internship
+"Python, TensorFlow, Scikit-learn, Docker",PhD,8,Software Developer,ML Engineer,25,Remote,Internship
+"Tableau, Excel, SQL, ETL",Bachelors,7,Data Analyst,BI Analyst,6,Bangalore,Full-time
+"Keras, Python, Scikit-learn, Docker, TensorFlow",Masters,9,ML Engineer,ML Engineer,22,Remote,Internship
+"React, Java, Python, Git, C++",Masters,4,Data Analyst,Software Developer,8,Hyderabad,Full-time
+"ETL, Tableau, Power BI, SQL",Bachelors,4,BI Analyst,BI Analyst,9,Remote,Contract
+"Python, TensorFlow, Keras, Docker",PhD,2,Data Analyst,ML Engineer,15,Remote,Internship
+"Tableau, Excel, ETL",Bachelors,4,Data Scientist,BI Analyst,6,Bangalore,Internship
+"Python, Java, Git, React, C++",PhD,10,Software Developer,Software Developer,18,Mumbai,Contract
+"Power BI, Tableau, Excel, ETL",PhD,7,Software Developer,BI Analyst,15,Hyderabad,Internship
+"Tableau, Excel, ETL, Power BI, SQL",Bachelors,5,Software Developer,BI Analyst,11,Bangalore,Contract
+"Pandas, Python, Machine Learning, R",Masters,7,BI Analyst,Data Scientist,14,Delhi,Internship
+"SQL, Power BI, Excel",Bachelors,8,Data Analyst,BI Analyst,8,Mumbai,Full-time
+"Keras, Docker, TensorFlow, Scikit-learn",PhD,3,BI Analyst,ML Engineer,14,Remote,Contract
+"Keras, Scikit-learn, TensorFlow",PhD,8,Software Developer,ML Engineer,19,Remote,Contract
+"Tableau, ETL, Power BI",Bachelors,8,BI Analyst,BI Analyst,8,Remote,Internship
+"Python, Keras, Scikit-learn, TensorFlow",Masters,6,BI Analyst,ML Engineer,14,Remote,Contract
+"Git, Java, Python",PhD,0,ML Engineer,Software Developer,7,Delhi,Contract
+"SQL, Excel, Tableau, Power BI, ETL",Masters,7,Data Scientist,BI Analyst,15,Hyderabad,Contract
+"Python, Power BI, Excel, Tableau",Masters,0,Data Analyst,Data Analyst,10,Mumbai,Full-time
+"Scikit-learn, TensorFlow, Python, Keras, Docker",Masters,6,Data Scientist,ML Engineer,17,Hyderabad,Internship
+"Python, Java, C++, React",Masters,2,Data Analyst,Software Developer,15,Mumbai,Contract
+"Python, C++, Git, React",Bachelors,6,Data Scientist,Software Developer,17,Mumbai,Internship
+"Python, Tableau, Excel, Power BI, SQL",Bachelors,3,Data Scientist,Data Analyst,9,Bangalore,Internship
+"ETL, Excel, Tableau",Bachelors,4,Software Developer,BI Analyst,7,Delhi,Contract
+"R, SQL, Machine Learning, Pandas",Masters,5,Data Analyst,Data Scientist,17,Mumbai,Contract
+"Git, Java, C++",Masters,7,Software Developer,Software Developer,15,Delhi,Full-time
+"Python, Keras, Scikit-learn, Docker",Masters,10,BI Analyst,ML Engineer,23,Bangalore,Internship
+"SQL, Power BI, Excel",Bachelors,7,Software Developer,BI Analyst,16,Mumbai,Contract
+"Power BI, Tableau, Excel, Python",Masters,3,BI Analyst,Data Analyst,12,Delhi,Contract
+"Git, Python, Java",PhD,7,Data Analyst,Software Developer,16,Bangalore,Full-time
+"C++, React, Java",Masters,8,ML Engineer,Software Developer,19,Delhi,Full-time
+"SQL, R, Python",Masters,2,Data Analyst,Data Scientist,21,Hyderabad,Contract
+"C++, Python, Java",Bachelors,6,Data Scientist,Software Developer,13,Remote,Contract
+"Power BI, Excel, SQL, Python",Masters,10,Data Scientist,Data Analyst,9,Mumbai,Internship
+"SQL, Tableau, Excel, Power BI, ETL",Masters,5,Data Scientist,BI Analyst,9,Remote,Contract
+"React, Python, C++, Git",Bachelors,1,Data Scientist,Software Developer,13,Delhi,Internship
+"SQL, Excel, Power BI, Tableau",Masters,5,ML Engineer,BI Analyst,6,Bangalore,Internship
+"SQL, Excel, Power BI, Python, Tableau",Masters,6,Software Developer,Data Analyst,15,Delhi,Contract
+"Java, C++, React, Git",Bachelors,1,Software Developer,Software Developer,7,Remote,Full-time
+"ETL, SQL, Excel, Power BI, Tableau",Bachelors,4,Software Developer,BI Analyst,18,Remote,Contract
+"Power BI, SQL, Tableau",Masters,3,BI Analyst,BI Analyst,7,Delhi,Contract
+"React, Java, Git, Python, C++",Masters,0,Data Analyst,Software Developer,16,Remote,Internship
+"Power BI, SQL, ETL, Excel",Bachelors,10,Data Scientist,BI Analyst,8,Remote,Full-time
+"SQL, Excel, Python",Masters,4,Software Developer,Data Analyst,6,Hyderabad,Full-time
+"Power BI, Excel, SQL, ETL, Tableau",Bachelors,7,Data Analyst,BI Analyst,11,Mumbai,Internship
+"Python, SQL, Power BI, Excel",Masters,5,Data Analyst,Data Analyst,11,Mumbai,Contract
+"SQL, Power BI, Python, Excel",Masters,1,Data Scientist,Data Analyst,15,Delhi,Internship
+"Python, TensorFlow, Scikit-learn",Bachelors,9,ML Engineer,ML Engineer,12,Mumbai,Internship
+"Pandas, SQL, Machine Learning, R, Python",Bachelors,7,BI Analyst,Data Scientist,28,Bangalore,Internship
+"SQL, Pandas, R",Bachelors,5,Software Developer,Data Scientist,26,Mumbai,Internship
+"Python, Pandas, SQL, Machine Learning, R",Masters,8,ML Engineer,Data Scientist,20,Bangalore,Contract
+"TensorFlow, Scikit-learn, Docker",Masters,9,ML Engineer,ML Engineer,21,Mumbai,Internship
+"SQL, Python, R",Bachelors,10,BI Analyst,Data Scientist,29,Hyderabad,Internship
+"Excel, SQL, Power BI, Tableau, Python",Masters,1,Software Developer,Data Analyst,13,Hyderabad,Contract
+"Pandas, SQL, Python",Bachelors,2,ML Engineer,Data Scientist,14,Hyderabad,Full-time
+"React, Java, Python",Bachelors,9,ML Engineer,Software Developer,8,Remote,Full-time
+"Tableau, Excel, ETL",Masters,7,Data Scientist,BI Analyst,13,Delhi,Internship
+"Docker, Scikit-learn, TensorFlow, Keras",Masters,8,Data Scientist,ML Engineer,15,Hyderabad,Internship
+"Tableau, SQL, Power BI, Python, Excel",Bachelors,2,Software Developer,Data Analyst,12,Hyderabad,Internship
+"Git, Java, C++",Masters,3,BI Analyst,Software Developer,9,Bangalore,Contract
+"C++, Java, React",PhD,7,ML Engineer,Software Developer,15,Bangalore,Internship
+"Docker, Scikit-learn, Python",Masters,3,Software Developer,ML Engineer,11,Remote,Internship
+"Tableau, Python, SQL",Masters,3,ML Engineer,Data Analyst,9,Hyderabad,Contract
+"SQL, Excel, ETL",PhD,8,Data Scientist,BI Analyst,18,Bangalore,Contract
+"Excel, SQL, Power BI, Tableau",Bachelors,10,Data Analyst,BI Analyst,5,Remote,Internship
+"Scikit-learn, Docker, Keras, Python, TensorFlow",Bachelors,7,Data Analyst,ML Engineer,16,Bangalore,Internship
+"Git, React, C++, Java, Python",Bachelors,0,Software Developer,Software Developer,18,Mumbai,Contract
+"Excel, Power BI, Tableau, ETL",Bachelors,8,Software Developer,BI Analyst,11,Hyderabad,Contract
+"Java, React, C++, Python",Bachelors,9,BI Analyst,Software Developer,11,Delhi,Contract
+"SQL, ETL, Excel, Power BI",Bachelors,10,ML Engineer,BI Analyst,14,Bangalore,Full-time
+"SQL, Power BI, Excel",PhD,0,Data Scientist,Data Analyst,7,Bangalore,Contract
+"Keras, Scikit-learn, TensorFlow, Docker, Python",PhD,0,ML Engineer,ML Engineer,22,Delhi,Internship
+"ETL, Excel, Tableau",PhD,7,ML Engineer,BI Analyst,6,Hyderabad,Contract
+"Excel, ETL, Tableau",Bachelors,8,Software Developer,BI Analyst,16,Hyderabad,Internship
+"Python, R, Machine Learning",Bachelors,7,Data Analyst,Data Scientist,27,Hyderabad,Contract
+"SQL, Tableau, Power BI",Masters,8,BI Analyst,Data Analyst,11,Bangalore,Internship
+"ETL, Excel, SQL, Tableau, Power BI",Bachelors,0,Data Analyst,BI Analyst,7,Delhi,Contract
+"Docker, Keras, Python, TensorFlow",Bachelors,8,Software Developer,ML Engineer,19,Remote,Contract
+"Docker, TensorFlow, Python, Scikit-learn, Keras",Masters,0,Data Analyst,ML Engineer,18,Mumbai,Contract
+"Power BI, SQL, Tableau, Excel",Bachelors,10,BI Analyst,Data Analyst,9,Hyderabad,Internship
+"Tableau, Power BI, ETL, SQL",Bachelors,5,Software Developer,BI Analyst,10,Remote,Full-time
+"Git, Java, C++",Bachelors,2,Data Analyst,Software Developer,12,Mumbai,Full-time
+"Docker, Keras, Python, Scikit-learn",Bachelors,8,BI Analyst,ML Engineer,19,Mumbai,Contract
+"Power BI, Excel, SQL",Bachelors,7,Data Scientist,BI Analyst,13,Bangalore,Internship
+"Keras, Scikit-learn, TensorFlow, Python",Bachelors,9,Data Scientist,ML Engineer,21,Mumbai,Contract
+"Excel, SQL, Tableau, ETL, Power BI",Bachelors,5,Data Scientist,BI Analyst,14,Mumbai,Contract
+"Python, Excel, SQL",Bachelors,7,Data Scientist,Data Analyst,12,Delhi,Contract
+"Git, Python, React",Bachelors,8,Data Scientist,Software Developer,13,Delhi,Internship
+"Power BI, SQL, Tableau, Python",Masters,4,Data Scientist,Data Analyst,14,Mumbai,Full-time
+"Machine Learning, Pandas, Python, SQL, R",Masters,1,ML Engineer,Data Scientist,14,Mumbai,Contract
+"Docker, Scikit-learn, Keras, Python",Masters,8,ML Engineer,ML Engineer,20,Mumbai,Internship
+"Docker, Keras, Scikit-learn, TensorFlow",Masters,10,Software Developer,ML Engineer,25,Remote,Internship
+"Keras, TensorFlow, Docker, Scikit-learn",Bachelors,5,Data Scientist,ML Engineer,19,Mumbai,Internship
+"Python, Java, C++",PhD,1,Software Developer,Software Developer,17,Hyderabad,Contract
+"Python, C++, Java, React, Git",Bachelors,8,ML Engineer,Software Developer,6,Delhi,Contract
+"Power BI, SQL, Excel",PhD,2,BI Analyst,BI Analyst,15,Delhi,Internship
+"Java, React, Python, Git, C++",PhD,2,BI Analyst,Software Developer,19,Hyderabad,Contract
+"Java, Python, Git",Masters,5,Software Developer,Software Developer,20,Mumbai,Internship
+"Keras, TensorFlow, Docker",Bachelors,4,ML Engineer,ML Engineer,20,Hyderabad,Full-time
+"Pandas, Machine Learning, SQL, R, Python",Bachelors,1,ML Engineer,Data Scientist,10,Delhi,Internship
+"Keras, Docker, TensorFlow, Python",Bachelors,5,ML Engineer,ML Engineer,13,Mumbai,Contract
+"SQL, Python, Machine Learning, R, Pandas",Masters,3,ML Engineer,Data Scientist,29,Delhi,Internship
+"Machine Learning, R, Python, SQL",Masters,8,Software Developer,Data Scientist,27,Remote,Full-time
+"R, Machine Learning, Pandas, SQL, Python",Masters,9,BI Analyst,Data Scientist,24,Hyderabad,Contract
+"ETL, SQL, Excel, Power BI",Masters,4,Data Analyst,BI Analyst,5,Remote,Full-time
+"SQL, Python, Power BI, Tableau",PhD,1,BI Analyst,Data Analyst,5,Mumbai,Internship
+"Tableau, ETL, SQL, Excel",Masters,5,Data Analyst,BI Analyst,7,Bangalore,Full-time
+"React, Git, Python, C++",Masters,3,BI Analyst,Software Developer,10,Bangalore,Contract
+"SQL, Power BI, ETL, Excel, Tableau",Masters,7,Data Scientist,BI Analyst,16,Mumbai,Internship
+"TensorFlow, Python, Scikit-learn, Docker, Keras",Masters,9,Software Developer,ML Engineer,20,Remote,Full-time
+"Excel, SQL, ETL, Tableau",Masters,6,Data Scientist,BI Analyst,15,Remote,Internship
+"Power BI, Excel, ETL, SQL",Masters,7,ML Engineer,BI Analyst,16,Mumbai,Full-time
+"Pandas, R, Machine Learning, Python",Bachelors,5,Data Analyst,Data Scientist,16,Bangalore,Internship
+"ETL, SQL, Tableau, Excel, Power BI",Bachelors,5,Software Developer,BI Analyst,8,Mumbai,Full-time
+"R, Pandas, Python, Machine Learning, SQL",Bachelors,8,Software Developer,Data Scientist,25,Mumbai,Full-time
+"Power BI, Excel, ETL, Tableau",Bachelors,3,ML Engineer,BI Analyst,14,Mumbai,Internship
+"Keras, TensorFlow, Scikit-learn",Masters,3,BI Analyst,ML Engineer,20,Mumbai,Internship
+"Keras, TensorFlow, Python, Scikit-learn, Docker",PhD,8,Data Analyst,ML Engineer,11,Bangalore,Full-time
+"Power BI, SQL, Excel",Bachelors,3,Data Scientist,BI Analyst,14,Remote,Internship
+"SQL, Tableau, ETL",Bachelors,4,Data Scientist,BI Analyst,18,Hyderabad,Full-time
+"Excel, Power BI, Python, Tableau, SQL",Bachelors,6,Data Analyst,Data Analyst,10,Hyderabad,Internship
+"Python, Power BI, Excel, SQL, Tableau",Masters,0,Data Analyst,Data Analyst,7,Delhi,Contract
+"Python, Excel, Power BI, Tableau, SQL",Bachelors,1,Software Developer,Data Analyst,13,Bangalore,Full-time
+"Pandas, Python, R",Bachelors,3,Data Scientist,Data Scientist,14,Bangalore,Contract
+"Java, Git, React",Masters,5,Data Scientist,Software Developer,18,Delhi,Internship
+"Excel, Tableau, Power BI",Bachelors,9,BI Analyst,BI Analyst,8,Bangalore,Internship
+"TensorFlow, Scikit-learn, Docker, Keras",Bachelors,0,Software Developer,ML Engineer,21,Hyderabad,Full-time
+"Scikit-learn, Docker, Python, Keras",Bachelors,8,Data Analyst,ML Engineer,20,Delhi,Internship
+"ETL, Power BI, Excel",Masters,10,BI Analyst,BI Analyst,9,Mumbai,Full-time
+"Tableau, SQL, Excel",Bachelors,1,Software Developer,Data Analyst,9,Remote,Contract
+"Python, TensorFlow, Scikit-learn, Docker",PhD,5,Data Scientist,ML Engineer,20,Remote,Full-time
+"React, C++, Git, Python",Bachelors,6,Software Developer,Software Developer,15,Delhi,Internship
+"Python, Java, React, Git",Masters,8,ML Engineer,Software Developer,17,Mumbai,Internship
+"Tableau, Excel, SQL, Power BI",Bachelors,10,ML Engineer,Data Analyst,11,Mumbai,Contract
+"ETL, Tableau, Excel, SQL, Power BI",Masters,8,Data Scientist,BI Analyst,17,Delhi,Full-time
+"Machine Learning, Pandas, R",PhD,6,Data Analyst,Data Scientist,26,Remote,Contract
+"Machine Learning, R, Pandas, SQL, Python",Bachelors,10,Data Scientist,Data Scientist,25,Bangalore,Internship
+"SQL, Power BI, Tableau",Bachelors,7,ML Engineer,BI Analyst,12,Mumbai,Contract
+"SQL, Excel, ETL, Tableau",Bachelors,5,Data Analyst,BI Analyst,16,Remote,Full-time
+"SQL, Pandas, R",Bachelors,6,ML Engineer,Data Scientist,29,Hyderabad,Internship
+"Pandas, Python, SQL, Machine Learning",Bachelors,1,Data Scientist,Data Scientist,16,Mumbai,Full-time
+"Git, Python, React, C++, Java",Masters,5,Software Developer,Software Developer,19,Remote,Contract
+"Excel, SQL, Python, Tableau, Power BI",Bachelors,5,ML Engineer,Data Analyst,13,Remote,Internship
+"Tableau, Power BI, Excel",Bachelors,4,ML Engineer,BI Analyst,12,Bangalore,Internship
+"Excel, Power BI, Tableau, SQL",Bachelors,7,BI Analyst,Data Analyst,12,Bangalore,Full-time
+"Python, C++, React",Bachelors,7,Data Scientist,Software Developer,15,Remote,Internship
+"Pandas, R, Machine Learning",Bachelors,10,ML Engineer,Data Scientist,21,Bangalore,Internship
+"Excel, SQL, Tableau",Masters,6,ML Engineer,Data Analyst,14,Bangalore,Contract
+"Python, C++, Git, React, Java",Masters,8,Data Analyst,Software Developer,20,Hyderabad,Contract
+"TensorFlow, Keras, Python",Masters,10,BI Analyst,ML Engineer,14,Mumbai,Internship
+"SQL, Tableau, Excel",Masters,5,BI Analyst,BI Analyst,5,Mumbai,Contract
+"React, Git, Java",PhD,3,BI Analyst,Software Developer,19,Remote,Contract
+"Scikit-learn, Keras, Docker, Python, TensorFlow",Bachelors,7,Data Analyst,ML Engineer,15,Mumbai,Full-time
+"Keras, TensorFlow, Scikit-learn, Python, Docker",Bachelors,5,ML Engineer,ML Engineer,22,Mumbai,Contract
+"Python, Power BI, Tableau, Excel, SQL",Bachelors,3,Data Scientist,Data Analyst,15,Bangalore,Internship
+"Python, TensorFlow, Scikit-learn, Docker",Masters,1,Data Analyst,ML Engineer,21,Mumbai,Full-time
+"Docker, Python, Keras",Masters,7,Software Developer,ML Engineer,14,Mumbai,Full-time
+"Excel, Python, SQL",Masters,5,BI Analyst,Data Analyst,10,Bangalore,Full-time
+"Machine Learning, SQL, Pandas, Python, R",Bachelors,9,Data Scientist,Data Scientist,11,Hyderabad,Internship
+"Power BI, Tableau, Excel",Masters,8,Data Analyst,BI Analyst,11,Mumbai,Internship
+"R, Pandas, Python, SQL, Machine Learning",Bachelors,3,Data Analyst,Data Scientist,30,Remote,Internship
+"Tableau, SQL, Excel, ETL, Power BI",Bachelors,1,Data Scientist,BI Analyst,10,Remote,Contract
+"Tableau, Excel, Python, SQL",Bachelors,6,Data Analyst,Data Analyst,12,Bangalore,Full-time
+"Python, TensorFlow, Scikit-learn, Keras, Docker",Bachelors,2,Software Developer,ML Engineer,10,Delhi,Contract
+"Power BI, Python, Excel, SQL",Masters,0,BI Analyst,Data Analyst,14,Bangalore,Contract
+"Power BI, Python, Tableau",Masters,0,ML Engineer,Data Analyst,5,Hyderabad,Full-time
+"Pandas, R, Machine Learning, Python, SQL",PhD,5,Software Developer,Data Scientist,11,Hyderabad,Full-time
+"Pandas, Python, R",Masters,4,Software Developer,Data Scientist,16,Delhi,Contract
+"React, C++, Git, Python, Java",PhD,3,Data Scientist,Software Developer,6,Hyderabad,Contract
+"Java, Python, React, C++, Git",Bachelors,8,ML Engineer,Software Developer,6,Bangalore,Full-time
+"Scikit-learn, Keras, TensorFlow, Python, Docker",Masters,10,BI Analyst,ML Engineer,11,Hyderabad,Internship
+"Git, Python, C++, React",Bachelors,1,ML Engineer,Software Developer,8,Mumbai,Internship
+"Java, Python, React, C++",Bachelors,4,Data Analyst,Software Developer,18,Remote,Full-time
+"TensorFlow, Python, Keras, Scikit-learn",PhD,6,Data Scientist,ML Engineer,19,Bangalore,Internship
+"ETL, Power BI, SQL, Tableau, Excel",Masters,2,Data Analyst,BI Analyst,17,Hyderabad,Full-time
+"SQL, Excel, ETL, Tableau",PhD,3,BI Analyst,BI Analyst,18,Bangalore,Full-time
+"Power BI, Tableau, Excel",Bachelors,0,BI Analyst,BI Analyst,10,Hyderabad,Internship
+"C++, Java, Python, Git",Masters,7,BI Analyst,Software Developer,6,Mumbai,Full-time
+"ETL, Power BI, Excel",PhD,8,Data Analyst,BI Analyst,13,Delhi,Contract
+"Pandas, SQL, Python, Machine Learning",Bachelors,3,Data Analyst,Data Scientist,26,Delhi,Contract
+"Python, TensorFlow, Keras",Bachelors,8,Data Analyst,ML Engineer,22,Hyderabad,Full-time
+"SQL, Python, Machine Learning, R",PhD,9,ML Engineer,Data Scientist,25,Remote,Internship
+"Python, Docker, Scikit-learn, Keras",Masters,0,Data Scientist,ML Engineer,10,Hyderabad,Internship
+"Python, Docker, Scikit-learn, Keras",Masters,8,Software Developer,ML Engineer,21,Remote,Full-time
+"Python, C++, Java, Git",Masters,7,Software Developer,Software Developer,9,Hyderabad,Internship
+"Python, C++, Java, React, Git",Masters,9,Data Analyst,Software Developer,20,Hyderabad,Contract
+"Pandas, R, Machine Learning",Masters,3,Software Developer,Data Scientist,30,Delhi,Internship
+"Excel, Power BI, SQL, Python",Bachelors,1,Data Analyst,Data Analyst,5,Hyderabad,Internship
+"Excel, Tableau, SQL, Power BI",Masters,9,ML Engineer,BI Analyst,17,Delhi,Full-time
+"Java, React, C++, Git",Masters,2,Data Analyst,Software Developer,11,Mumbai,Contract
+"Excel, Tableau, Python, SQL",Bachelors,3,ML Engineer,Data Analyst,11,Hyderabad,Full-time
+"Power BI, Tableau, Python, SQL",Bachelors,6,Data Analyst,Data Analyst,9,Hyderabad,Full-time
+"Git, Java, C++",Masters,7,BI Analyst,Software Developer,7,Mumbai,Full-time
+"Python, C++, Git, Java",Bachelors,7,Software Developer,Software Developer,15,Bangalore,Full-time
+"Git, C++, Python, Java, React",Masters,6,Data Scientist,Software Developer,15,Delhi,Full-time
+"SQL, Power BI, ETL, Tableau, Excel",PhD,2,ML Engineer,BI Analyst,11,Mumbai,Full-time
+"Keras, Docker, Scikit-learn, Python, TensorFlow",Bachelors,6,Data Scientist,ML Engineer,18,Remote,Contract
+"Python, Pandas, Machine Learning, SQL",Masters,9,Data Analyst,Data Scientist,27,Delhi,Internship
+"Git, React, Java, Python",Bachelors,2,Data Scientist,Software Developer,6,Hyderabad,Full-time
+"Excel, SQL, Power BI, ETL",Bachelors,7,Data Analyst,BI Analyst,16,Delhi,Internship
+"SQL, Power BI, Tableau, ETL, Excel",Masters,8,Software Developer,BI Analyst,9,Mumbai,Full-time
+"Python, R, Machine Learning, SQL, Pandas",Bachelors,7,Data Analyst,Data Scientist,24,Remote,Internship
+"Python, Excel, Tableau, SQL, Power BI",Bachelors,7,Data Scientist,Data Analyst,13,Bangalore,Internship
+"Python, Excel, SQL, Power BI",Masters,10,ML Engineer,Data Analyst,15,Remote,Full-time
+"Excel, Power BI, SQL, Python",Bachelors,9,Software Developer,Data Analyst,15,Mumbai,Internship
+"Keras, Scikit-learn, Docker, Python",Bachelors,10,Software Developer,ML Engineer,19,Mumbai,Full-time
+"Python, React, C++, Git",Bachelors,8,ML Engineer,Software Developer,16,Bangalore,Contract
+"Excel, Tableau, Power BI, ETL",Masters,9,Data Scientist,BI Analyst,16,Remote,Contract
+"Excel, ETL, SQL, Tableau, Power BI",Bachelors,2,Software Developer,BI Analyst,10,Bangalore,Full-time
+"Python, Git, C++",Bachelors,9,Software Developer,Software Developer,13,Remote,Contract
+"Pandas, R, SQL",Bachelors,10,BI Analyst,Data Scientist,14,Hyderabad,Full-time
+"React, Git, Java, C++",Masters,2,Data Analyst,Software Developer,16,Bangalore,Full-time
+"Power BI, ETL, Excel, SQL",Bachelors,1,ML Engineer,BI Analyst,11,Mumbai,Internship
+"SQL, Power BI, Excel",Bachelors,0,Software Developer,BI Analyst,15,Hyderabad,Full-time
+"C++, Java, React, Python",Bachelors,0,Software Developer,Software Developer,17,Remote,Internship
+"Power BI, Excel, ETL, Tableau, SQL",Bachelors,6,Data Analyst,BI Analyst,7,Bangalore,Contract
+"Python, SQL, Pandas",Masters,0,BI Analyst,Data Scientist,29,Bangalore,Contract
+"Python, Power BI, Tableau, SQL, Excel",Bachelors,1,Data Scientist,Data Analyst,9,Bangalore,Internship
+"SQL, Excel, Tableau, ETL, Power BI",Masters,1,Data Scientist,BI Analyst,6,Mumbai,Full-time
+"SQL, R, Pandas",Masters,4,ML Engineer,Data Scientist,25,Delhi,Full-time
+"Python, Power BI, SQL",Masters,2,Data Analyst,Data Analyst,13,Delhi,Contract
+"Keras, Docker, TensorFlow, Python",Bachelors,2,Data Analyst,ML Engineer,21,Mumbai,Contract
+"Python, Power BI, Tableau",Masters,2,Software Developer,Data Analyst,10,Delhi,Internship
+"Scikit-learn, Docker, TensorFlow",Bachelors,6,BI Analyst,ML Engineer,15,Hyderabad,Full-time
+"Tableau, ETL, SQL, Power BI, Excel",Masters,10,ML Engineer,BI Analyst,11,Bangalore,Full-time
+"Python, Java, React, Git, C++",Masters,9,Data Analyst,Software Developer,13,Mumbai,Full-time
+"Python, Machine Learning, SQL, Pandas, R",Masters,2,Data Analyst,Data Scientist,18,Bangalore,Contract
+"Scikit-learn, Docker, Python, Keras, TensorFlow",Bachelors,9,BI Analyst,ML Engineer,25,Mumbai,Contract
+"Tableau, Power BI, Python",Masters,0,Data Analyst,Data Analyst,14,Hyderabad,Contract
+"Excel, SQL, Tableau, Power BI",Bachelors,9,Data Scientist,BI Analyst,12,Bangalore,Contract
+"Keras, Docker, Scikit-learn",PhD,4,Data Scientist,ML Engineer,21,Hyderabad,Internship
+"Scikit-learn, Python, TensorFlow, Docker, Keras",Bachelors,6,ML Engineer,ML Engineer,16,Mumbai,Full-time
+"Pandas, Machine Learning, SQL",Masters,8,ML Engineer,Data Scientist,11,Remote,Internship
+"Machine Learning, R, SQL, Python",Masters,2,Data Analyst,Data Scientist,23,Remote,Contract
+"Scikit-learn, Keras, TensorFlow, Docker",Masters,2,BI Analyst,ML Engineer,19,Delhi,Contract
+"R, Machine Learning, Python, Pandas, SQL",PhD,2,ML Engineer,Data Scientist,21,Remote,Internship
+"Pandas, SQL, R, Python, Machine Learning",Bachelors,2,Data Analyst,Data Scientist,15,Delhi,Contract
+"Java, Python, React",Masters,0,Software Developer,Software Developer,15,Hyderabad,Contract
+"R, SQL, Pandas, Python",PhD,6,BI Analyst,Data Scientist,10,Delhi,Full-time
+"R, SQL, Pandas, Python",Masters,3,Software Developer,Data Scientist,15,Hyderabad,Contract
+"Pandas, Python, R",Bachelors,4,ML Engineer,Data Scientist,24,Hyderabad,Full-time
+"Docker, Python, Keras, TensorFlow",Bachelors,9,Data Scientist,ML Engineer,12,Remote,Full-time
+"Python, TensorFlow, Scikit-learn, Keras, Docker",Bachelors,3,Software Developer,ML Engineer,21,Remote,Internship
+"Python, Machine Learning, SQL, R, Pandas",Bachelors,10,Data Scientist,Data Scientist,20,Mumbai,Full-time
+"ETL, Excel, SQL, Power BI",Masters,8,BI Analyst,BI Analyst,15,Delhi,Contract
+"Excel, Python, SQL",Bachelors,10,ML Engineer,Data Analyst,15,Remote,Contract
+"SQL, Power BI, ETL, Tableau, Excel",Bachelors,1,Data Analyst,BI Analyst,6,Hyderabad,Internship
+"Tableau, ETL, Power BI, Excel",Bachelors,10,Data Analyst,BI Analyst,16,Bangalore,Contract
+"Python, SQL, Pandas",Bachelors,10,Software Developer,Data Scientist,24,Mumbai,Internship
+"Excel, Power BI, Python, Tableau",Masters,8,Software Developer,Data Analyst,15,Delhi,Full-time
+"R, Python, Pandas, SQL, Machine Learning",Masters,1,Software Developer,Data Scientist,30,Remote,Full-time
+"TensorFlow, Keras, Python",Bachelors,10,Data Scientist,ML Engineer,24,Delhi,Contract
+"Python, Excel, SQL, Tableau",PhD,5,ML Engineer,Data Analyst,15,Bangalore,Full-time
+"Git, Python, React, C++",Masters,2,Data Scientist,Software Developer,18,Hyderabad,Full-time
+"C++, Git, React",Masters,2,Software Developer,Software Developer,13,Mumbai,Contract
+"Power BI, Python, Excel",Masters,2,Data Scientist,Data Analyst,8,Bangalore,Full-time
+"Python, Pandas, SQL, Machine Learning, R",Masters,8,Data Scientist,Data Scientist,17,Remote,Contract
+"Git, Java, C++",Bachelors,0,ML Engineer,Software Developer,18,Mumbai,Full-time
+"Docker, TensorFlow, Keras, Scikit-learn, Python",Bachelors,7,ML Engineer,ML Engineer,18,Hyderabad,Contract
+"Git, React, Java, Python",PhD,5,Data Analyst,Software Developer,19,Remote,Contract
+"Pandas, Machine Learning, R",Masters,1,Data Scientist,Data Scientist,26,Mumbai,Internship
+"Git, Java, Python, React",Bachelors,3,Data Analyst,Software Developer,9,Hyderabad,Internship
+"Python, R, Pandas, SQL, Machine Learning",Bachelors,7,BI Analyst,Data Scientist,23,Bangalore,Full-time
+"Power BI, Excel, Python",Masters,0,Data Scientist,Data Analyst,7,Remote,Internship
+"Python, SQL, Machine Learning, Pandas, R",Masters,7,BI Analyst,Data Scientist,29,Hyderabad,Contract
+"Docker, Keras, Python, TensorFlow, Scikit-learn",Masters,1,ML Engineer,ML Engineer,22,Hyderabad,Contract
+"Pandas, R, SQL, Python, Machine Learning",Bachelors,9,Data Scientist,Data Scientist,14,Remote,Contract
+"Tableau, Power BI, Excel, Python, SQL",Bachelors,7,BI Analyst,Data Analyst,10,Mumbai,Full-time
+"Power BI, Tableau, Excel, Python",Bachelors,0,Data Scientist,Data Analyst,13,Hyderabad,Contract
+"Python, Java, Git, C++",Masters,4,Software Developer,Software Developer,15,Delhi,Contract
+"Tableau, ETL, SQL",Bachelors,8,BI Analyst,BI Analyst,10,Hyderabad,Contract
+"Excel, Tableau, SQL, Python, Power BI",Bachelors,6,Software Developer,Data Analyst,13,Bangalore,Full-time
+"Docker, Scikit-learn, Python, Keras",Bachelors,5,Data Analyst,ML Engineer,11,Remote,Contract
+"Machine Learning, Python, Pandas, R",Bachelors,3,Data Scientist,Data Scientist,29,Remote,Contract
+"TensorFlow, Python, Docker, Scikit-learn, Keras",PhD,1,Software Developer,ML Engineer,21,Remote,Full-time
+"Python, Machine Learning, SQL",Bachelors,8,Data Scientist,Data Scientist,17,Remote,Full-time
+"ETL, SQL, Power BI, Tableau",Bachelors,1,Data Scientist,BI Analyst,6,Delhi,Contract
+"Pandas, Machine Learning, SQL, R",Masters,5,BI Analyst,Data Scientist,10,Mumbai,Full-time
+"Git, C++, Python",Masters,5,BI Analyst,Software Developer,17,Hyderabad,Internship
+"SQL, Python, Power BI, Tableau",Bachelors,5,ML Engineer,Data Analyst,14,Mumbai,Contract
+"TensorFlow, Keras, Python",Bachelors,3,Data Scientist,ML Engineer,14,Bangalore,Contract
+"SQL, ETL, Power BI, Excel, Tableau",Bachelors,9,Software Developer,BI Analyst,13,Mumbai,Full-time
+"Python, Pandas, R",PhD,0,Data Scientist,Data Scientist,15,Mumbai,Full-time
+"SQL, Python, Pandas, Machine Learning",Bachelors,1,Software Developer,Data Scientist,18,Hyderabad,Internship
+"Excel, ETL, SQL, Power BI, Tableau",Bachelors,5,Software Developer,BI Analyst,7,Hyderabad,Contract
+"Keras, TensorFlow, Docker",Bachelors,6,ML Engineer,ML Engineer,14,Hyderabad,Internship
+"ETL, Excel, Power BI",Bachelors,8,Data Scientist,BI Analyst,16,Bangalore,Full-time
+"Java, Git, Python, C++",Bachelors,5,Data Scientist,Software Developer,11,Bangalore,Internship
+"Machine Learning, R, Pandas",Bachelors,10,Data Scientist,Data Scientist,22,Remote,Internship
+"Power BI, ETL, Excel, Tableau, SQL",Masters,9,BI Analyst,BI Analyst,10,Delhi,Internship
+"Python, Git, C++, React, Java",Masters,8,BI Analyst,Software Developer,8,Hyderabad,Contract
+"Keras, Python, Scikit-learn, Docker, TensorFlow",Bachelors,1,BI Analyst,ML Engineer,11,Remote,Full-time
+"Power BI, Excel, Python, Tableau",Bachelors,3,Software Developer,Data Analyst,12,Bangalore,Full-time
+"Git, React, Python, C++",Masters,2,Data Scientist,Software Developer,16,Remote,Internship
+"Machine Learning, SQL, R, Pandas, Python",Masters,7,Software Developer,Data Scientist,19,Bangalore,Full-time
+"SQL, Machine Learning, R",Masters,7,BI Analyst,Data Scientist,19,Remote,Full-time
+"SQL, Excel, Tableau, Power BI, Python",Bachelors,10,BI Analyst,Data Analyst,11,Hyderabad,Contract
+"SQL, Machine Learning, Pandas, R, Python",Bachelors,1,ML Engineer,Data Scientist,24,Remote,Internship
+"React, Git, Java, C++, Python",Bachelors,8,Data Analyst,Software Developer,10,Mumbai,Contract
+"Python, Excel, Power BI",Bachelors,5,BI Analyst,Data Analyst,9,Delhi,Full-time
+"Keras, Scikit-learn, Python",Masters,2,ML Engineer,ML Engineer,22,Hyderabad,Internship
+"SQL, Power BI, Tableau",Masters,1,Data Scientist,BI Analyst,11,Delhi,Full-time
+"Power BI, Python, Excel, SQL, Tableau",Bachelors,0,ML Engineer,Data Analyst,6,Bangalore,Full-time
+"Java, Git, React, Python, C++",Masters,7,Data Scientist,Software Developer,18,Hyderabad,Internship
+"Power BI, SQL, Tableau, Python, Excel",Bachelors,2,Data Scientist,Data Analyst,6,Remote,Contract
+"C++, Java, Python, React",Bachelors,2,Software Developer,Software Developer,17,Delhi,Contract
+"ETL, Power BI, Excel",Bachelors,7,Software Developer,BI Analyst,13,Mumbai,Internship
+"Python, Git, Java, C++, React",Masters,9,Software Developer,Software Developer,11,Remote,Internship
+"Scikit-learn, TensorFlow, Keras, Docker, Python",Bachelors,5,Data Analyst,ML Engineer,12,Hyderabad,Full-time
+"Scikit-learn, TensorFlow, Python",Bachelors,10,BI Analyst,ML Engineer,25,Delhi,Full-time
+"React, Java, Git",PhD,3,BI Analyst,Software Developer,18,Delhi,Contract
+"SQL, Excel, Tableau, ETL",Masters,4,Data Analyst,BI Analyst,16,Remote,Internship
+"Docker, TensorFlow, Keras",Masters,2,Data Scientist,ML Engineer,23,Remote,Internship
+"Tableau, SQL, ETL, Excel, Power BI",Masters,10,ML Engineer,BI Analyst,10,Remote,Internship
+"Git, Python, React, Java",Masters,3,BI Analyst,Software Developer,11,Mumbai,Full-time
+"Power BI, Python, SQL, Tableau",PhD,4,Data Analyst,Data Analyst,9,Bangalore,Contract
+"React, C++, Java, Python, Git",Bachelors,2,Software Developer,Software Developer,9,Bangalore,Contract
+"Power BI, SQL, Excel, ETL, Tableau",Bachelors,9,Data Analyst,BI Analyst,16,Mumbai,Full-time
+"SQL, Tableau, Excel, Python",Masters,3,Data Scientist,Data Analyst,5,Bangalore,Internship
+"R, SQL, Pandas, Python, Machine Learning",Bachelors,6,BI Analyst,Data Scientist,19,Mumbai,Full-time
+"Python, Scikit-learn, Keras, Docker",Masters,4,Data Analyst,ML Engineer,23,Hyderabad,Internship
+"Pandas, Machine Learning, SQL",Masters,8,Data Scientist,Data Scientist,18,Mumbai,Internship
+"Python, Pandas, R",Bachelors,3,Software Developer,Data Scientist,15,Delhi,Contract
+"Power BI, Tableau, SQL, Excel, ETL",Masters,2,Data Analyst,BI Analyst,14,Delhi,Full-time
+"Java, Python, C++, Git, React",Bachelors,8,ML Engineer,Software Developer,14,Hyderabad,Contract
+"Power BI, Python, Excel, Tableau",Bachelors,3,Data Scientist,Data Analyst,9,Bangalore,Internship
+"Python, Java, Git, C++, React",Bachelors,6,Data Scientist,Software Developer,13,Remote,Full-time
+"Docker, Scikit-learn, Keras",PhD,0,Data Analyst,ML Engineer,19,Hyderabad,Full-time
+"Python, React, Git, C++, Java",PhD,8,Software Developer,Software Developer,20,Remote,Internship
+"Keras, Scikit-learn, Docker",Bachelors,6,Data Scientist,ML Engineer,17,Hyderabad,Internship
+"Python, Git, React, Java, C++",Masters,9,Data Scientist,Software Developer,19,Remote,Full-time
+"ETL, Power BI, Tableau",Bachelors,8,Data Analyst,BI Analyst,7,Delhi,Internship
+"Tableau, Excel, SQL, ETL",Bachelors,2,Data Analyst,BI Analyst,14,Hyderabad,Contract
+"Python, Keras, Docker",Masters,7,ML Engineer,ML Engineer,25,Hyderabad,Internship
+"Power BI, ETL, SQL, Excel",Bachelors,0,Software Developer,BI Analyst,15,Hyderabad,Full-time
+"Docker, Scikit-learn, Keras, TensorFlow",Masters,3,BI Analyst,ML Engineer,11,Delhi,Internship
+"Machine Learning, Python, SQL, Pandas, R",Bachelors,0,ML Engineer,Data Scientist,27,Mumbai,Contract
+"SQL, Tableau, Excel",Masters,4,BI Analyst,Data Analyst,7,Remote,Full-time
+"Tableau, SQL, Excel, ETL, Power BI",Masters,8,ML Engineer,BI Analyst,12,Hyderabad,Internship
+"R, Pandas, Python, Machine Learning, SQL",Masters,2,Data Analyst,Data Scientist,30,Delhi,Full-time
+"Pandas, R, Machine Learning, SQL, Python",Masters,5,Data Scientist,Data Scientist,14,Hyderabad,Contract
+"SQL, Power BI, Tableau, Excel",Bachelors,2,Data Analyst,Data Analyst,7,Bangalore,Internship
+"ETL, SQL, Excel, Power BI",Bachelors,9,BI Analyst,BI Analyst,6,Remote,Full-time
+"Keras, TensorFlow, Python, Docker, Scikit-learn",Bachelors,5,Data Analyst,ML Engineer,11,Delhi,Internship
+"Python, Tableau, Power BI",Bachelors,4,Data Scientist,Data Analyst,15,Delhi,Full-time
+"SQL, Power BI, Excel, Python",Masters,8,Data Analyst,Data Analyst,9,Delhi,Contract
+"Power BI, ETL, Excel, SQL, Tableau",Masters,10,Data Scientist,BI Analyst,16,Delhi,Internship
+"SQL, Machine Learning, Python, R",Masters,10,BI Analyst,Data Scientist,17,Delhi,Full-time
+"Python, Tableau, SQL",Masters,3,Data Scientist,Data Analyst,11,Remote,Contract
+"TensorFlow, Keras, Docker",Masters,4,Software Developer,ML Engineer,20,Delhi,Internship
+"ETL, SQL, Tableau, Excel, Power BI",Masters,10,BI Analyst,BI Analyst,7,Hyderabad,Contract
+"Excel, Tableau, Power BI, SQL, ETL",Masters,10,Software Developer,BI Analyst,14,Delhi,Full-time
+"Python, Keras, TensorFlow, Docker",Masters,6,ML Engineer,ML Engineer,13,Delhi,Contract
+"Tableau, Python, Excel, Power BI",Bachelors,4,ML Engineer,Data Analyst,13,Bangalore,Full-time
+"Power BI, Python, Excel, Tableau",Bachelors,7,Data Scientist,Data Analyst,9,Remote,Contract
+"Python, Scikit-learn, TensorFlow",Masters,8,Data Analyst,ML Engineer,19,Bangalore,Internship
+"SQL, Excel, ETL",Masters,4,ML Engineer,BI Analyst,9,Remote,Internship
+"SQL, Excel, ETL, Tableau, Power BI",Bachelors,9,Data Scientist,BI Analyst,13,Remote,Internship
+"Python, C++, Java",Bachelors,9,Software Developer,Software Developer,6,Mumbai,Contract
+"Tableau, Python, Power BI",Bachelors,2,Data Scientist,Data Analyst,14,Delhi,Full-time
+"Pandas, R, Python",Masters,7,Data Analyst,Data Scientist,24,Mumbai,Full-time
+"Docker, Keras, TensorFlow",Bachelors,10,Software Developer,ML Engineer,24,Mumbai,Full-time
+"Git, C++, React, Python",Masters,2,Data Scientist,Software Developer,19,Delhi,Contract
+"Power BI, Tableau, Excel, SQL",Bachelors,3,Data Scientist,Data Analyst,7,Hyderabad,Contract
+"Pandas, SQL, Machine Learning, Python",Bachelors,10,Data Analyst,Data Scientist,29,Mumbai,Internship
+"Pandas, R, Machine Learning",PhD,1,Data Scientist,Data Scientist,30,Bangalore,Full-time
+"Docker, Python, Scikit-learn",Masters,7,Data Scientist,ML Engineer,22,Hyderabad,Full-time
+"React, Python, C++, Git",PhD,9,Data Analyst,Software Developer,19,Bangalore,Internship
+"Python, SQL, Machine Learning",Masters,0,ML Engineer,Data Scientist,22,Mumbai,Internship
+"Power BI, ETL, Tableau, SQL, Excel",Masters,5,BI Analyst,BI Analyst,15,Hyderabad,Full-time
+"Python, Excel, SQL, Tableau, Power BI",PhD,2,Data Analyst,Data Analyst,7,Mumbai,Contract
+"Docker, Scikit-learn, Keras, TensorFlow",Bachelors,3,ML Engineer,ML Engineer,10,Remote,Internship
+"ETL, Excel, SQL, Tableau, Power BI",Masters,1,Data Scientist,BI Analyst,16,Delhi,Internship
+"Machine Learning, Python, Pandas",Bachelors,10,Data Analyst,Data Scientist,20,Remote,Full-time
+"ETL, Tableau, Excel, Power BI",Bachelors,4,Software Developer,BI Analyst,14,Remote,Internship
+"Tableau, Excel, SQL, Python, Power BI",Masters,9,Data Analyst,Data Analyst,9,Bangalore,Internship
+"React, Python, C++",Masters,0,Data Analyst,Software Developer,20,Mumbai,Internship
+"TensorFlow, Scikit-learn, Python, Keras",Bachelors,1,ML Engineer,ML Engineer,14,Mumbai,Full-time
+"Power BI, ETL, Excel, Tableau, SQL",Masters,1,Data Analyst,BI Analyst,12,Mumbai,Contract
+"Pandas, Machine Learning, R",Bachelors,8,BI Analyst,Data Scientist,24,Mumbai,Contract
+"Java, React, Python, C++, Git",Masters,10,Software Developer,Software Developer,10,Delhi,Contract
+"Pandas, R, SQL, Python",Masters,10,ML Engineer,Data Scientist,12,Bangalore,Internship
+"Python, Tableau, Excel, Power BI, SQL",Bachelors,0,Data Analyst,Data Analyst,14,Remote,Contract
+"Python, Power BI, SQL, Tableau, Excel",Masters,10,Data Scientist,Data Analyst,7,Delhi,Internship
+"Tableau, SQL, Excel, Power BI, Python",Bachelors,1,Software Developer,Data Analyst,5,Delhi,Internship
+"Python, Scikit-learn, Docker, TensorFlow",Bachelors,7,Data Analyst,ML Engineer,23,Bangalore,Internship
+"Java, React, Git",Masters,4,BI Analyst,Software Developer,8,Bangalore,Full-time
+"Power BI, Excel, ETL, SQL",Masters,7,BI Analyst,BI Analyst,16,Remote,Full-time
+"Tableau, Python, SQL, Excel",Bachelors,4,BI Analyst,Data Analyst,5,Bangalore,Internship
+"C++, React, Python, Java, Git",Masters,4,BI Analyst,Software Developer,13,Mumbai,Contract
+"Python, TensorFlow, Docker",Masters,9,ML Engineer,ML Engineer,22,Delhi,Internship
+"Python, Machine Learning, R, Pandas",Bachelors,0,BI Analyst,Data Scientist,26,Mumbai,Contract
+"Machine Learning, R, Python",Bachelors,2,BI Analyst,Data Scientist,11,Hyderabad,Contract
+"TensorFlow, Python, Docker",Masters,1,BI Analyst,ML Engineer,15,Bangalore,Full-time
+"ETL, Power BI, SQL, Excel, Tableau",Bachelors,10,BI Analyst,BI Analyst,14,Hyderabad,Internship
+"Docker, TensorFlow, Scikit-learn",Bachelors,4,ML Engineer,ML Engineer,15,Hyderabad,Internship
+"Python, TensorFlow, Docker, Scikit-learn, Keras",Bachelors,7,Data Analyst,ML Engineer,10,Remote,Internship
+"Tableau, Power BI, SQL, Excel, ETL",Masters,6,ML Engineer,BI Analyst,7,Remote,Full-time
+"Git, Java, Python, React",Bachelors,8,Data Analyst,Software Developer,19,Remote,Full-time
+"Power BI, Excel, SQL, Tableau, ETL",Masters,10,BI Analyst,BI Analyst,15,Bangalore,Contract
+"C++, Git, React, Python",Masters,7,Data Analyst,Software Developer,20,Hyderabad,Full-time
+"SQL, ETL, Tableau, Power BI, Excel",Bachelors,10,Software Developer,BI Analyst,8,Hyderabad,Contract
+"Tableau, Power BI, SQL",Bachelors,7,Data Analyst,BI Analyst,14,Hyderabad,Internship
+"Git, C++, Python",Bachelors,4,ML Engineer,Software Developer,6,Bangalore,Internship
+"Scikit-learn, Docker, TensorFlow",Bachelors,5,ML Engineer,ML Engineer,15,Remote,Full-time
+"R, Python, Machine Learning, SQL, Pandas",Masters,7,Software Developer,Data Scientist,17,Hyderabad,Internship
+"Power BI, ETL, Excel, SQL, Tableau",PhD,0,BI Analyst,BI Analyst,13,Mumbai,Contract
+"Tableau, Excel, Python, SQL",Masters,6,ML Engineer,Data Analyst,7,Bangalore,Full-time
+"Excel, Power BI, ETL, Tableau, SQL",PhD,7,ML Engineer,BI Analyst,18,Mumbai,Contract
+"Python, Tableau, SQL, Excel, Power BI",Bachelors,4,Data Scientist,Data Analyst,13,Remote,Internship
+"SQL, Python, Tableau, Excel, Power BI",Bachelors,0,Software Developer,Data Analyst,10,Remote,Contract
+"Keras, TensorFlow, Docker",Bachelors,7,Data Scientist,ML Engineer,17,Remote,Contract
+"SQL, ETL, Power BI, Excel",Bachelors,8,Data Scientist,BI Analyst,13,Delhi,Internship
+"Python, R, Pandas, Machine Learning",Bachelors,2,Software Developer,Data Scientist,13,Hyderabad,Internship
+"Docker, Python, TensorFlow",Bachelors,10,Data Scientist,ML Engineer,25,Bangalore,Internship
+"Python, TensorFlow, Keras",Masters,6,Data Scientist,ML Engineer,20,Remote,Internship
+"ETL, Power BI, Tableau, SQL",Masters,3,BI Analyst,BI Analyst,18,Hyderabad,Internship
+"C++, React, Python, Git",Bachelors,2,ML Engineer,Software Developer,7,Remote,Full-time
+"Excel, Power BI, SQL, ETL",Masters,5,ML Engineer,BI Analyst,7,Delhi,Full-time
+"Tableau, Excel, Power BI, SQL",Bachelors,8,Data Scientist,Data Analyst,10,Hyderabad,Contract
+"SQL, Tableau, ETL, Excel",Masters,1,Software Developer,BI Analyst,18,Mumbai,Internship
+"Python, Excel, SQL, Power BI",Masters,4,ML Engineer,Data Analyst,5,Bangalore,Contract
+"Tableau, Excel, ETL",Masters,0,Software Developer,BI Analyst,18,Delhi,Internship
+"Python, React, C++",Bachelors,7,Data Scientist,Software Developer,17,Mumbai,Internship
+"Scikit-learn, Docker, Python, Keras, TensorFlow",Bachelors,7,Data Scientist,ML Engineer,12,Bangalore,Full-time
+"Excel, Tableau, SQL, Power BI, ETL",Bachelors,6,Software Developer,BI Analyst,18,Remote,Internship
+"Tableau, Power BI, SQL, Excel, ETL",Bachelors,10,BI Analyst,BI Analyst,7,Hyderabad,Full-time
+"Tableau, Python, SQL, Excel",Masters,9,BI Analyst,Data Analyst,9,Delhi,Contract
+"SQL, R, Machine Learning",Bachelors,5,BI Analyst,Data Scientist,18,Delhi,Internship
+"Python, React, Git",Masters,1,Data Scientist,Software Developer,18,Hyderabad,Contract
+"Python, React, Git, C++",Bachelors,9,Software Developer,Software Developer,8,Delhi,Internship
+"Power BI, SQL, Tableau, Excel",Masters,3,Data Scientist,BI Analyst,12,Bangalore,Full-time
+"SQL, Power BI, Tableau, Excel",Bachelors,7,Data Scientist,Data Analyst,13,Bangalore,Contract
+"Excel, Power BI, SQL",Bachelors,2,ML Engineer,Data Analyst,7,Bangalore,Full-time
+"SQL, Power BI, ETL, Excel",Masters,8,Data Scientist,BI Analyst,9,Bangalore,Internship
+"Python, Excel, SQL",PhD,2,Software Developer,Data Analyst,5,Remote,Internship
+"React, C++, Python",Masters,1,Data Scientist,Software Developer,17,Hyderabad,Contract
+"Python, Excel, SQL, Tableau, Power BI",Masters,2,BI Analyst,Data Analyst,15,Mumbai,Internship
+"TensorFlow, Scikit-learn, Python, Docker, Keras",Bachelors,8,ML Engineer,ML Engineer,21,Bangalore,Full-time
+"Java, Git, C++, Python",Masters,4,BI Analyst,Software Developer,10,Hyderabad,Full-time
+"Excel, Power BI, SQL, Tableau, ETL",Bachelors,8,Data Analyst,BI Analyst,11,Bangalore,Contract
+"Keras, TensorFlow, Scikit-learn",Bachelors,6,Data Analyst,ML Engineer,23,Remote,Contract
+"Git, Python, C++, React, Java",Masters,2,BI Analyst,Software Developer,10,Hyderabad,Contract
+"Python, Docker, Scikit-learn",Bachelors,0,ML Engineer,ML Engineer,20,Remote,Full-time
+"Power BI, Tableau, Excel, Python, SQL",Masters,7,Data Scientist,Data Analyst,9,Remote,Full-time
+"Python, Tableau, Excel, SQL",Masters,7,BI Analyst,Data Analyst,5,Hyderabad,Internship
+"Excel, Tableau, Power BI",Masters,9,BI Analyst,BI Analyst,13,Remote,Full-time
+"Tableau, ETL, Excel, Power BI",Masters,4,Software Developer,BI Analyst,5,Delhi,Internship
+"SQL, Pandas, Python",Bachelors,5,BI Analyst,Data Scientist,17,Hyderabad,Contract
